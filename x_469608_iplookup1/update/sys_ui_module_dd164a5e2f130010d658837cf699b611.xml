@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="IPAddressInfo">91164a5e2f130010d658837cf699b60f</application>
+        <filter/>
+        <name>IPAddressInfos</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_469608_iplookup1.ipaddressinfo_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-04 09:54:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dd164a5e2f130010d658837cf699b611</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPAddressInfos</sys_name>
+        <sys_package display_value="IPLookup1" source="x_469608_iplookup1">e46fb1922f130010d658837cf699b618</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup1">e46fb1922f130010d658837cf699b618</sys_scope>
+        <sys_update_name>sys_ui_module_dd164a5e2f130010d658837cf699b611</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-04 09:54:40</sys_updated_on>
+        <table>x_469608_iplookup1_ipaddressinfo</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
